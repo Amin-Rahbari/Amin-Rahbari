@@ -1,10 +1,9 @@
 # Hi there, I'm Amin Rahbari! 👋
 
-<p align="center">
-  <img src="[لینک بنر گیت‌هاب شما - می‌توانید از بنر توییتر که ساختیم، استفاده کنید]" alt="Amin Rahbari's Banner"/>
-</p>
+I'm a passionate **Cybersecurity Student** and aspiring **Ethical Hacker** with a strong foundation in IT, networking, and software development. My goal is to use my skills to build a more secure digital world.
 
-I'm a passionate **Cybersecurity Student** and aspiring **Ethical Hacker** with a strong foundation in IT, networking, and software development. My goal is to use my skills to build a more secure digital world. I'm constantly learning and sharing my journey here.
+- 🇮🇷 **Persian:** Native Speaker
+- 🇬🇧 **English:** Professional Proficiency
 
 ---
 
@@ -51,9 +50,6 @@ I'm a passionate **Cybersecurity Student** and aspiring **Ethical Hacker** with 
   </a>
   <a href="https://www.instagram.com/amin_rahbari83" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:[ایمیل شما]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
