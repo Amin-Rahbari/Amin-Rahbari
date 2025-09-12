@@ -1,20 +1,21 @@
 # Hi there, I'm Amin Rahbari! 👋
 
 <p align="center">
-  <b><a href="#-english">Read in English</a></b>
+  <b><a href="#english">Read in English</a></b>
   •
-  <b><a href="#--persian">مطالعه به فارسی</a></b>
+  <b><a href="#persian">مطالعه به فارسی</a></b>
 </p>
 
 ---
 ---
 
+<a name="english"></a>
 ## 🇬🇧 English
 
 I'm a passionate **Cybersecurity Student** and aspiring **Ethical Hacker** with a strong foundation in IT, networking, and software development. My goal is to use my skills to build a more secure digital world.
 
 - 🇮🇷 **Persian:** Native Speaker
-- 🇬🇧 **English:** Professional Proficiency
+- 🇬🇧 **English:** Basic Proficiency
 
 ---
 
@@ -76,12 +77,13 @@ I'm a passionate **Cybersecurity Student** and aspiring **Ethical Hacker** with 
 ---
 ---
 
+<a name="persian"></a>
 ## 🇮🇷 فارسی (Persian)
 
 من یک دانشجوی علاقه‌مند به **امنیت سایبری** و یک **هکر اخلاقی** مشتاق با پیش‌زمینه‌ای قوی در IT، شبکه و توسعه نرم‌افزار هستم. هدف من استفاده از مهارت‌هایم برای ساختن یک دنیای دیجیتال امن‌تر است.
 
 - 🇮🇷 **فارسی:** زبان مادری
-- 🇬🇧 **انگلیسی:** تسلط حرفه‌ای
+- 🇬🇧 **انگلیسی:** آشنایی مقدماتی
 
 ---
 
