@@ -2,6 +2,10 @@
 
 I'm a passionate **Cybersecurity Student** and aspiring **Ethical Hacker** with a strong foundation in IT, networking, and software development. My goal is to use my skills to build a more secure digital world.
 
+---
+
+من یک دانشجوی علاقه‌مند به **امنیت سایبری** و یک **هکر اخلاقی** مشتاق با پیش‌زمینه‌ای قوی در IT، شبکه و توسعه نرم‌افزار هستم. هدف من استفاده از مهارت‌هایم برای ساختن یک دنیای دیجیتال امن‌تر است.
+
 - 🇮🇷 **Persian:** Native Speaker
 - 🇬🇧 **English:** Professional Proficiency
 
