@@ -1,168 +1,137 @@
-<h1 align="center">Amin Rahbari | امین رهبری</h1>
+<div align="center">
 
-<p align="center">
-Cybersecurity Student
-</p>
+# 👨‍💻 Amin Rahbari
 
-<p align="center">
-دانشجوی امنیت سایبری
-</p>
-
-<p align="center">
-Linux • Networking • Security • Ethical Hacking
-</p>
+### Cybersecurity Student
+### دانشجوی امنیت سایبری
 
 ---
 
-## About Me | درباره من
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Linux+Enthusiast;Network+Security;Ethical+Hacker&center=true&width=500&height=50">
+
+---
+
+</div>
+
+## 👤 About Me | درباره من
 
 EN:
 
-I am Amin Rahbari.
+Cybersecurity student focused on:
 
-Computer Software Student interested in Cybersecurity.
+• Linux  
+• Networking  
+• Security  
+• Penetration Testing  
 
-Focused on:
-
-- Linux
-- Networking
-- Security
-- Penetration Testing
-
-My goal is to become a professional Cybersecurity Specialist.
-
-
----
 
 FA:
 
-من امین رهبری هستم.
+دانشجوی امنیت سایبری علاقه‌مند به:
 
-دانشجوی رشته نرم‌افزار کامپیوتر و علاقه‌مند به امنیت سایبری.
+• لینوکس  
+• شبکه  
+• امنیت  
+• تست نفوذ
 
-زمینه‌های مورد علاقه:
-
-- لینوکس
-- شبکه
-- امنیت
-- تست نفوذ
-
-هدف من تبدیل شدن به متخصص امنیت سایبری است.
 
 ---
 
-## Cybersecurity Education | آموزش‌های امنیت سایبری
+## 🎓 Bootcamp | بوت کمپ امنیت
 
 Cybersecurity Bootcamp Graduate
 
-Studied Topics:
 
-- Linux
-- Network+
-- Security+
-- CEH
-- SANS SEC450
-- SANS SEC504
-- SANS SEC560
+Studied:
 
+🐧 Linux
 
----
+🌐 Network+
 
-فارغ‌التحصیل بوت کمپ امنیت سایبری
+🔐 Security+
 
-مباحث گذرانده شده:
+💻 CEH
 
-- Linux
-- Network+
-- Security+
-- CEH
-- SEC450
-- SEC504
-- SEC560
+🛡 SANS SEC450
 
----
+🛡 SANS SEC504
 
-## Skills | مهارت‌ها
-
-Operating Systems:
-
-- Linux
-- Windows
-
-
-Networking:
-
-- TCP/IP
-- Basic Networking
-- Network Security
-
-
-Security:
-
-- Ethical Hacking
-- Penetration Testing
-- Security Basics
+🛡 SANS SEC560
 
 
 ---
 
-## Tools | ابزارها
+## ⚙ Skills | مهارت‌ها
 
-- Kali Linux
+<p align="center">
 
-- Nmap
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux">
 
-- Wireshark
+<img src="https://img.shields.io/badge/Networking-blue?style=for-the-badge">
 
-- Metasploit
+<img src="https://img.shields.io/badge/CyberSecurity-red?style=for-the-badge">
 
-- Burp Suite
+<img src="https://img.shields.io/badge/PenTesting-darkgreen?style=for-the-badge">
 
-
----
-
-## Current Learning | در حال یادگیری
-
-- Web Security
-
-- Linux Administration
-
-- Network Security
+</p>
 
 
 ---
 
-## Future Goals | اهداف آینده
+## 🛠 Tools | ابزارها
 
-- Advanced Penetration Testing
+<p align="center">
 
-- Malware Analysis
+<img src="https://img.shields.io/badge/Kali-Linux-blue?style=for-the-badge">
 
-- Reverse Engineering
+<img src="https://img.shields.io/badge/Nmap-red?style=for-the-badge">
 
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge">
 
----
+<img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge">
 
-## Projects | پروژه‌ها
+<img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge">
 
-Projects will be added soon
-
-به زودی پروژه‌ها اضافه می‌شوند
-
-
----
-
-## Contact | ارتباط
-
-GitHub:
-
-github.com/Amin-Rahbari
+</p>
 
 
 ---
 
-## Motto | شعار
+## 📊 GitHub Stats
 
-Never Stop Learning
+<p align="center">
 
-هرگز یادگیری را متوقف نکن
+<img src="https://github-readme-stats.vercel.app/api?username=Amin-Rahbari&show_icons=true">
+
+</p>
+
+
+---
+
+## 📚 Learning | در حال یادگیری
+
+🔹 Web Security
+
+🔹 Linux
+
+🔹 Network Security
+
+
+---
+
+## 🎯 Goal | هدف
+
+Become a Cybersecurity Expert
+
+تبدیل شدن به متخصص امنیت سایبری
+
+
+---
+
+<div align="center">
+
+### 🔥 Never Stop Learning
+
+### هرگز یادگیری را متوقف نکن
+
+</div>
