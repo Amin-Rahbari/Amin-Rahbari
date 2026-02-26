@@ -110,11 +110,11 @@ Studied:
 
 ## 📚 Learning | در حال یادگیری
 
-🔹 Web Security
+🔹 V7LTHRONYX MobileSec
 
-🔹 Linux
+🔹 V7LTHRONYX DDoS
 
-🔹 Network Security
+🔹 کلاینت هکینگ اتاق سیاه
 
 
 ---
