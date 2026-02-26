@@ -1,47 +1,94 @@
-<h1 align="center">Amin Rahbari</h1>
+<h1 align="center">Amin Rahbari | امین رهبری</h1>
 
 <p align="center">
-Cybersecurity Student
+Cybersecurity Student | دانشجوی امنیت سایبری
+</p>
+
+<p align="center">
+Linux • Network • Security • Ethical Hacking
 </p>
 
 ---
 
-### About Me
+## About Me | درباره من
 
-- Computer Software Student
-- Interested in Cybersecurity
-- Linux User
-- Network Security Learner
+Hello 👋
 
----
+I am Amin Rahbari, a Computer Software student interested in Cybersecurity.
 
-### Skills
-
-Linux  
-Networking  
-Cybersecurity  
-Penetration Testing  
+My goal is to become a professional security expert.
 
 ---
 
-### Tools
+سلام 👋
 
-Kali Linux  
-Nmap  
-Wireshark  
-Burp Suite  
-Metasploit  
+من امین رهبری هستم، دانشجوی رشته نرم‌افزار کامپیوتر.
+
+علاقه‌مند به حوزه:
+
+- امنیت سایبری
+- لینوکس
+- شبکه
+- تست نفوذ
+
+هدف من تبدیل شدن به یک متخصص امنیت است.
 
 ---
 
-### Current Learning
+## Skills | مهارت‌ها
+
+### Operating Systems
+
+- Linux
+- Windows
+
+### Networking
+
+- Network Basics
+- TCP/IP
+
+### Security
+
+- Security Basics
+- Ethical Hacking
+- Penetration Testing
+
+---
+
+## Tools | ابزارها
+
+- Kali Linux
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+
+---
+
+## Learning | در حال یادگیری
 
 - Web Security
-- Ethical Hacking
 - Linux Administration
+- Network Security
 
 ---
 
-### GitHub Stats
+## Projects | پروژه‌ها
 
-(To be added later)
+Coming Soon...
+
+به زودی پروژه‌ها اضافه می‌شوند.
+
+---
+
+## GitHub
+
+https://github.com/Amin-Rahbari
+
+---
+
+## Motto
+
+Never Stop Learning
+
+هرگز یادگیری را متوقف نکن
