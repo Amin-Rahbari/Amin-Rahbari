@@ -1,94 +1,83 @@
-<h1 align="center">Amin Rahbari | امین رهبری</h1>
+<h1 align="center">👨‍💻 Amin Rahbari</h1>
 
 <p align="center">
-Cybersecurity Student | دانشجوی امنیت سایبری
+Cybersecurity Student
 </p>
 
 <p align="center">
-Linux • Network • Security • Ethical Hacking
+دانشجوی امنیت سایبری
 </p>
 
 ---
 
-## About Me | درباره من
+## 👤 About Me
 
-Hello 👋
+EN:
 
-I am Amin Rahbari, a Computer Software student interested in Cybersecurity.
-
-My goal is to become a professional security expert.
-
----
-
-سلام 👋
-
-من امین رهبری هستم، دانشجوی رشته نرم‌افزار کامپیوتر.
-
-علاقه‌مند به حوزه:
-
-- امنیت سایبری
-- لینوکس
-- شبکه
-- تست نفوذ
-
-هدف من تبدیل شدن به یک متخصص امنیت است.
-
----
-
-## Skills | مهارت‌ها
-
-### Operating Systems
+Cybersecurity student interested in:
 
 - Linux
-- Windows
-
-### Networking
-
-- Network Basics
-- TCP/IP
-
-### Security
-
-- Security Basics
+- Networking
 - Ethical Hacking
-- Penetration Testing
+
+Goal:
+
+Become a Security Expert
+
 
 ---
 
-## Tools | ابزارها
+FA:
 
-- Kali Linux
-- Nmap
-- Wireshark
-- Burp Suite
-- Metasploit
+دانشجوی نرم‌افزار کامپیوتر
 
----
+علاقه‌مند به:
 
-## Learning | در حال یادگیری
+- لینوکس
+- شبکه
+- امنیت
 
-- Web Security
-- Linux Administration
-- Network Security
+هدف:
+
+متخصص امنیت سایبری
 
 ---
 
-## Projects | پروژه‌ها
+## ⚙ Skills
 
-Coming Soon...
-
-به زودی پروژه‌ها اضافه می‌شوند.
-
----
-
-## GitHub
-
-https://github.com/Amin-Rahbari
+Linux  
+Networking  
+Security  
+Penetration Testing  
 
 ---
 
-## Motto
+## 🛠 Tools
 
-Never Stop Learning
+Kali Linux  
+Nmap  
+Wireshark  
+Burp Suite  
+Metasploit  
 
-هرگز یادگیری را متوقف نکن
+---
+
+## 📚 Learning
+
+Web Security  
+Linux  
+Networking
+
+---
+
+## 📊 GitHub
+
+Amin-Rahbari
+
+---
+
+## 🔥 Motto
+
+Stay Secure
+
+امنیت یعنی دانش
