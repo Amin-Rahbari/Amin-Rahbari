@@ -110,12 +110,7 @@ Studied:
 
 ## 📚 Learning | در حال یادگیری
 
-🔹 V7LTHRONYX MobileSec
-
-🔹 V7LTHRONYX DDoS
-
-🔹 کلاینت هکینگ اتاق سیاه
-
+🚫🚫🚫
 
 ---
 
